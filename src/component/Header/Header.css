@@ -1,0 +1,15 @@
+Form{
+    padding-left: 30%;
+}
+.header-nav{
+    /* position: fixed; */
+    height: 60px;
+    background-color: white;
+    border-bottom: 1px solid #DBDBDB;
+   
+}
+.header-container{
+    margin: 0 50px;
+    background-color: white;
+}
+

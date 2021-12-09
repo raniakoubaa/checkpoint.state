@@ -1,0 +1,7 @@
+.listimage{
+    display:flex;
+    justify-content: space-around;
+    /* width:500px; */
+    border-top: solid 1px #D3D3D3;
+    margin: 50px;
+}
